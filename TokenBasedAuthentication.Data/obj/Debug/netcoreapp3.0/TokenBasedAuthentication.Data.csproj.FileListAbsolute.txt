@@ -1,0 +1,8 @@
+C:\Users\ecmug\Documents\Work_Projects\TokenBasedAuthentication\TokenBasedAuthentication.Data\bin\Debug\netcoreapp3.0\TokenBasedAuthentication.Data.deps.json
+C:\Users\ecmug\Documents\Work_Projects\TokenBasedAuthentication\TokenBasedAuthentication.Data\bin\Debug\netcoreapp3.0\TokenBasedAuthentication.Data.dll
+C:\Users\ecmug\Documents\Work_Projects\TokenBasedAuthentication\TokenBasedAuthentication.Data\obj\Debug\netcoreapp3.0\TokenBasedAuthentication.Data.AssemblyInfoInputs.cache
+C:\Users\ecmug\Documents\Work_Projects\TokenBasedAuthentication\TokenBasedAuthentication.Data\obj\Debug\netcoreapp3.0\TokenBasedAuthentication.Data.AssemblyInfo.cs
+C:\Users\ecmug\Documents\Work_Projects\TokenBasedAuthentication\TokenBasedAuthentication.Data\bin\Debug\netcoreapp3.0\TokenBasedAuthentication.Data.pdb
+C:\Users\ecmug\Documents\Work_Projects\TokenBasedAuthentication\TokenBasedAuthentication.Data\obj\Debug\netcoreapp3.0\TokenBasedAuthentication.Data.dll
+C:\Users\ecmug\Documents\Work_Projects\TokenBasedAuthentication\TokenBasedAuthentication.Data\obj\Debug\netcoreapp3.0\TokenBasedAuthentication.Data.pdb
+C:\Users\ecmug\Documents\Work_Projects\TokenBasedAuthentication\TokenBasedAuthentication.Data\obj\Debug\netcoreapp3.0\TokenBasedAuthentication.Data.csprojAssemblyReference.cache
